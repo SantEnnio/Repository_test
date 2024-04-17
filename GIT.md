@@ -24,4 +24,12 @@ https://git-fork.com/
 - Merge: fusione tra due o più commit
     - Caso ottimale: i collaboratori hanno modificato dei file diversi tra loro
     - Caso OK: i collaboratori hanno modificato due parti dello stesso file
-    - Conflict: i collaboratori modificano le stesse sezioni dello stesso file
+    - Conflict: i collaboratori modificano le stesse sezioni dello stesso file, i conflitti vanno gestiti.
+- .gitignore: scegliere quali file ignorare all'interno della cartella
+
+# UNITY
+* Step 1: creazione della repository online (template Unity)
+* Step 2: clone della repository in locale
+* Step 3: creazione del progetto Unity
+* Step 4: root del progetto Unity -> root della repository
+* Step 5: first commit -> push 
