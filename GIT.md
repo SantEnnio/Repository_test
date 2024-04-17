@@ -4,7 +4,7 @@ Un tonno dei miei
 - Condividiamo versioni di una cartella su disco
     - locale: commit
     - remoto: push
-NO
+
 # Client git:
 
 https://desktop.github.com/
