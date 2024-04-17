@@ -23,5 +23,5 @@ https://git-fork.com/
 - Pull: recupero i dati della repository online e li inserisco nella mia repo locale
 - Merge: fusione tra due o più commit
     - Caso ottimale: i collaboratori hanno modificato dei file diversi tra loro
-    - Caso meh (1): i collaboratori hanno modificato due parti dello stesso file
-    - 
+    - Caso OK: i collaboratori hanno modificato due parti dello stesso file
+    - Conflict: i collaboratori modificano le stesse sezioni dello stesso file
