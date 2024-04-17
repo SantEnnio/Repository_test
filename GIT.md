@@ -18,4 +18,6 @@ https://git-fork.com/
     - edit file
 - Branch: ramificazione dei commit per modifiche potenzialmente distruttive
 - Push: invio delle commit (NON DEI FILE) su una repository online
-
+- Clone: collegamento di una repository online su repository locale
+- Fetch: recupera tutti gli aggiornamenti da una repository online
+- Pull: recupero i dati della repository online e li inserisco nella mia repo locale
