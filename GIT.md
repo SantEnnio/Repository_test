@@ -1,18 +1,17 @@
-# Git
-Software per il versionamento e la condivisione di file
-Un tonno dei miei
+# Intro gentile a Git per Unity
+Git: software per il versionamento e la condivisione di file
+
 - Condividiamo versioni di una cartella su disco
     - locale: commit
     - remoto: push
 
-# Client git:
-
+## Client git:
 https://desktop.github.com/
 https://git-fork.com/
 
-# Glossario:
-- Repository: cartella versionata
-- Commit: stato delle modifiche ad una cartella:
+## Glossario:
+- Repository: cartella versionata, può essere locale, oppure remota
+- Commit: è la "fotografia" dello stato delle modifiche ad una cartella.
     - add file
     - remove file
     - edit file
@@ -27,7 +26,8 @@ https://git-fork.com/
     - Conflict: i collaboratori modificano le stesse sezioni dello stesso file, i conflitti vanno gestiti.
 - .gitignore: scegliere quali file ignorare all'interno della cartella
 
-# UNITY
+## Git + UNITY
+.gitignore ignora le cartelle Library, Temp, Build, Logs...
 * Step 1: creazione della repository online (template Unity)
 * Step 2: clone della repository in locale
 * Step 3: creazione del progetto Unity
