@@ -21,3 +21,7 @@ https://git-fork.com/
 - Clone: collegamento di una repository online su repository locale
 - Fetch: recupera tutti gli aggiornamenti da una repository online
 - Pull: recupero i dati della repository online e li inserisco nella mia repo locale
+- Merge: fusione tra due o più commit
+    - Caso ottimale: i collaboratori hanno modificato dei file diversi tra loro
+    - Caso meh (1): i collaboratori hanno modificato due parti dello stesso file
+    - 
