@@ -4,7 +4,7 @@ Un tonno dei miei
 - Condividiamo versioni di una cartella su disco
     - locale: commit
     - remoto: push
-
+Ma che ti sembro un mostro
 # Client git:
 
 https://desktop.github.com/
@@ -18,4 +18,6 @@ https://git-fork.com/
     - edit file
 - Branch: ramificazione dei commit per modifiche potenzialmente distruttive
 - Push: invio delle commit (NON DEI FILE) su una repository online
-
+- Clone: collegamento di una repository online su repository locale
+- Fetch: recupera tutti gli aggiornamenti da una repository online
+- Pull: recupero i dati della repository online e li inserisco nella mia repo locale
