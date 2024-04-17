@@ -1,10 +1,10 @@
 # Git
 Software per il versionamento e la condivisione di file
-
+Un tonno dei miei
 - Condividiamo versioni di una cartella su disco
     - locale: commit
     - remoto: push
-
+Ma che ti sembro un mostro
 # Client git:
 
 https://desktop.github.com/
